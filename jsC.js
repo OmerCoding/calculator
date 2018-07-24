@@ -1,3 +1,3 @@
 one.addEventListener("click", ()=>{
-  document.getElementById('equation').innerHTML += "1 ";
+  document.getElementById('equation').value += "1 ";
 });
